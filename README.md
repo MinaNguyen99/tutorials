@@ -1,4 +1,5 @@
 # Metaverse Financial Transaction: Anomaly Detection App
+![Alt text](assets/Financial_background.png)
 ## Dataset
 
 The dataset for this project can be found on [Kaggle](https://www.kaggle.com/datasets/faizaniftikharjanjua/metaverse-financial-transactions-dataset) (licensed under CC BY 4.0).
